@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0728-self-dividing-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
