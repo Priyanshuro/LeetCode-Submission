@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
