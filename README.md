@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0015-3sum) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 ## Two Pointers
 |  |
 | ------- |
