@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0232-implement-queue-using-stacks) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -43,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0015-3sum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 ## Two Pointers
 |  |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0015-3sum) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
