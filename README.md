@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2351-first-letter-to-appear-twice](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -75,8 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/2351-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
