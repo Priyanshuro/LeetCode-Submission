@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2351-first-letter-to-appear-twice](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/2351-first-letter-to-appear-twice) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
