@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0018-4sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/0018-4sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Priyanshuro/LeetCode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
