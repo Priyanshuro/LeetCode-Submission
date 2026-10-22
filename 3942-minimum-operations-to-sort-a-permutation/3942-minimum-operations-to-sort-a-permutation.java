@@ -17,7 +17,7 @@ class Solution {
         }
 
         int ans = Integer.MAX_VALUE;
-        if (inc) ans = Math.min(ans, Math.min(p, n - p + 2));
+        if (inc) ans = Math.min(p, n - p + 2);
         if (dec) ans = Math.min(ans, Math.min(p + 2, n - p));
         return ans == Integer.MAX_VALUE ? -1 : ans;
     }
